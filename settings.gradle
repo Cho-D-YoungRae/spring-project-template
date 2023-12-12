@@ -1,0 +1,4 @@
+rootProject.name = 'spring-project-template'
+
+include ':common:domain'
+include ':common:web'
